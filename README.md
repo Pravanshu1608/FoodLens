@@ -20,7 +20,7 @@ To use this project:
 Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/food-vision.git
+git clone https://github.com/Pravanshu1608/FoodLens.git
 ```
 
 ### Description
